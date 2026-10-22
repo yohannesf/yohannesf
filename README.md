@@ -26,7 +26,7 @@ has been for the UN, regional bodies and governments across Africa, and now from
 | **[SDG6 Data Portal](https://sdg6data.org)** | Global data platform for every water-related SDG indicator, for UNOPS / UN-Water. | Drupal · PHP · MySQL · Docker · GCP |
 | **[TaxBridge](https://github.com/yohannesf/accountbridge-taxbridge)** | AI-assisted IRS Form 990 preparation for nonprofits (Humber capstone for NewPath Consulting). | Python · FastAPI · OpenAI API · QuickBooks API |
 | **RAMS** | Geo-enabled road asset management system covering 644 roads. | Django · GeoDjango · PostGIS · QGIS |
-| **SADC ICT Observatory** | Database and web portal for 80+ indicators across 16 member states. | Django · PostgreSQL · PostGIS · Docker |
+| **[SADC ICT Observatory](https://ictobservatory.sadc.int/)** | Database and web portal for 80+ indicators across 16 member states. | Django · PostgreSQL · PostGIS · Docker |
 
 ## 🧰 Tech I work with
 
