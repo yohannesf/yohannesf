@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yohannesf"><img src="https://img.shields.io/badge/LinkedIn-yohannesf-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://yohannesfikre.com"><img src="https://img.shields.io/badge/Portfolio-yohannesfikre.com-1F4E79?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://habeshabiz.vercel.app"><img src="https://img.shields.io/badge/Live-HabeshaBiz-2E7D32?style=flat-square&logo=vercel&logoColor=white" alt="HabeshaBiz"></a>
+  <a href="https://habeshabiz.ca/"><img src="https://img.shields.io/badge/HabeshaBiz-habeshabiz.ca-2E7D32?style=flat-square&logo=vercel&logoColor=white" alt="HabeshaBiz"></a>
   <img src="https://img.shields.io/badge/Open%20to-work-0A66C2?style=flat-square" alt="Open to work">
 </p>
 
@@ -22,7 +22,7 @@ has been for the UN, regional bodies and governments across Africa, and now from
 | Project | What it is | Stack |
 |---|---|---|
 | **[DODO](https://github.com/yohannesf/DODO)** | Open-source, offline-first indicator data collection and M&E platform. A PWA that works with no connection and syncs safely when it returns. | TypeScript · PostgreSQL/PostGIS · PWA |
-| **[HabeshaBiz](https://habeshabiz.vercel.app)** | Ethiopian and Eritrean business and event directory in Canada, 8,000+ monthly visitors. | Next.js · TypeScript · PostgreSQL · Vercel |
+| **[HabeshaBiz](https://habeshabiz.ca/)** | Ethiopian and Eritrean business and event directory in Canada, 8,000+ monthly visitors. | Next.js · TypeScript · PostgreSQL · Vercel |
 | **[SDG6 Data Portal](https://sdg6data.org)** | Global data platform for every water-related SDG indicator, for UNOPS / UN-Water. | Drupal · PHP · MySQL · Docker · GCP |
 | **[TaxBridge](https://github.com/yohannesf/accountbridge-taxbridge)** | AI-assisted IRS Form 990 preparation for nonprofits (Humber capstone for NewPath Consulting). | Python · FastAPI · OpenAI API · QuickBooks API |
 | **RAMS** | Geo-enabled road asset management system covering 644 roads. | Django · GeoDjango · PostGIS · QGIS |
